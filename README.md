@@ -4,6 +4,8 @@
 The dino will jump and crouch automatically. Yayy!!!
 Libraries used are PIL, pyautogui and pyscreenshot
 
+![chrome-dino-game](https://user-images.githubusercontent.com/36515927/98705979-4c800880-23a4-11eb-8c54-348d32e77ca5.gif)
+
 ## Requirements
 
 `pip install -r requirements.txt`
